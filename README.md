@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dochee M, Realtor/Data Scientist  
-- 👀 I’m interested in AI/Machine Learning and Blockchain Development
-- 🌱 I’m currently learning and building Real Estates Smart Contracts in Solidity and Python
-- 💞️ I’m looking to collaborate on Real Estate AI Blockchain Projects
-- 📫 You can reach me at DIapp.engineering@gmail.com
+- 👋 Hi, I’m Mardochee M, Realtor/Data Scientist  
+- 👀 I’m interested in NLP / Large language models and Real Estate
+- 🌱 Check out my models at https://huggingface.co/Dochee
+- 💞️ I’m looking to collaborate NLP reasearch and App development
+- 📫 You can reach me at Diapp.engineering@gmail.com or Dochee.homes@gmail.com
 
 <!---
 docheem/docheem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
