@@ -1,7 +1,7 @@
-- Hi, I’m Mardochee M, Realtor/Data Scientist  
-- I’m interested in NLP / Large language models and Real Estate
+- Hi, I’m Mardochee M, Realtor / Data Scientist  
+- I’m interested in NLP Large Language Models Engineering and Real Estate dev
 - Check out my models at https://huggingface.co/Dochee
-- I’m looking to collaborate NLP reasearch and App development
+- I’m looking to collaborate NLP LLM reasearch and App development
 - You can reach me at Diapp.engineering@gmail.com or Dochee.homes@gmail.com
 
 <!---
